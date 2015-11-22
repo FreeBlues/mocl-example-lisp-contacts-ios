@@ -37,6 +37,7 @@ Part I: run mocl to deal with the app.lisp
  ```
  $ mocl -ios LispContacts app.lisp 
  ```
+ 
 Part II: run Xcode to deal with the project
 - add the directory mocl to project
 - build it!
