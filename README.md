@@ -11,7 +11,7 @@ Step by step to run the example:
 
 Part I: run mocl to deal with the app.lisp
 - Install the dependence libs
-  - cd into the mocl/systems/
+  - cd into the mocl/systems/   
   ```cd ~/mocl/systems```
   - get all require libs
   ``` 
@@ -33,7 +33,7 @@ Part I: run mocl to deal with the app.lisp
   $ ln -s cl-vectors/cl-paths.asd cl-paths.asd
   $ ln -s cl-vectors/cl-aa.asd cl-aa.asd
   ```
-- use mocl to deal with the app.lisp
+- use mocl to deal with the app.lisp    
  ```
  $ mocl -ios LispContacts app.lisp 
  ```
